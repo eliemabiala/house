@@ -170,7 +170,7 @@
     border-radius: 16px 0px;
     width: 130px;
     padding: 5px;
-height: 35px;
+    height: 35px;
 
 
 }
@@ -281,6 +281,19 @@ background-repeat: no-repeat;
 
     /* margin-left: 119px; */
 }
+
+.voir{
+display: block;
+justify-content: center;
+    background-color: #960610d2;
+    color: white;
+    border-radius: 16px 16px;
+    width: 392px;
+    padding: 5px;
+height: 35px;
+}
+
+
 
 
 .grond {
